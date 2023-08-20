@@ -1,7 +1,17 @@
 [
-  {
-    "username": "jorden",
-    "password": "123",
-    "hardwareID": "HardwareID123"
-  }
+    {
+        "username": "benutzer1",
+        "password": "passwort1",
+        "allowedHardwareID": ""
+    },
+    {
+        "username": "benutzer2",
+        "password": "passwort2",
+        "allowedHardwareID": "HardwareID2"
+    },
+    {
+        "username": "benutzer3",
+        "password": "passwort3",
+        "allowedHardwareID": ""
+    }
 ]
